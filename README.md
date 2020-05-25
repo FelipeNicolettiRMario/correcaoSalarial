@@ -8,4 +8,4 @@ Pratica em Java para correção de salario de funcionarios
  
  -Collections
  
- 
+ ![Resultado](https://ibb.co/sVtdGjn)
